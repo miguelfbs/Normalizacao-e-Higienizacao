@@ -150,19 +150,6 @@ Crie as seguintes coleções (ou variações delas):
 Lembre-se de relacionar as coleções usando IDs de referência (universe_id, species_id, etc.)
 e de testar seus relacionamentos com o operador `$lookup`.
 
-
-### Desafio Extra (opcional)
-
-Use seu poder máximo e crie consultas heroicas!
-
-Tente descobrir:
-
-* O personagem mais poderoso de cada universo;
-
-* O universo com mais personagens registrados;
-
-* Quantos personagens possuem mais de 3 equipamentos.
-
 **Entregas**: 
 
 1. Código de higienizados e normalizados em seu repositório pessoal;
