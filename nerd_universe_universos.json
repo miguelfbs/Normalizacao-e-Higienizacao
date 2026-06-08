@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae946d"
+  },
+  "universe_id": "univ_001",
+  "name": "The Witcher",
+  "type": "games/series",
+  "origin": "Poland"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae946e"
+  },
+  "universe_id": "univ_002",
+  "name": "Star Wars",
+  "type": "films/series",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae946f"
+  },
+  "universe_id": "univ_003",
+  "name": "Metroid",
+  "type": "games",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9470"
+  },
+  "universe_id": "univ_004",
+  "name": "Assassin's Creed",
+  "type": "games",
+  "origin": "Canada"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9471"
+  },
+  "universe_id": "univ_005",
+  "name": "Horizon Zero Dawn",
+  "type": "games",
+  "origin": "Netherlands"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9472"
+  },
+  "universe_id": "univ_006",
+  "name": "The Last of Us",
+  "type": "games/series",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9473"
+  },
+  "universe_id": "univ_007",
+  "name": "Marvel",
+  "type": "HQs/films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9474"
+  },
+  "universe_id": "univ_008",
+  "name": "DC",
+  "type": "HQs/films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9475"
+  },
+  "universe_id": "univ_009",
+  "name": "Wizarding World",
+  "type": "films/books",
+  "origin": "UK"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9476"
+  },
+  "universe_id": "univ_010",
+  "name": "Halo",
+  "type": "games",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9477"
+  },
+  "universe_id": "univ_011",
+  "name": "Middle-Earth",
+  "type": "films/books",
+  "origin": "UK"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9478"
+  },
+  "universe_id": "univ_012",
+  "name": "God of War",
+  "type": "games",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9479"
+  },
+  "universe_id": "univ_013",
+  "name": "Tomb Raider",
+  "type": "games/films",
+  "origin": "UK"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae947a"
+  },
+  "universe_id": "univ_014",
+  "name": "John Wick Universe",
+  "type": "films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae947b"
+  },
+  "universe_id": "univ_015",
+  "name": "One Punch Man",
+  "type": "anime/manga",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae947c"
+  },
+  "universe_id": "univ_016",
+  "name": "Capcom Games",
+  "type": "games",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae947d"
+  },
+  "universe_id": "univ_017",
+  "name": "Marvel What If",
+  "type": "animation",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae947e"
+  },
+  "universe_id": "univ_018",
+  "name": "Dragon Ball",
+  "type": "anime/manga",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae947f"
+  },
+  "universe_id": "univ_019",
+  "name": "Legend of Zelda",
+  "type": "games",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9480"
+  },
+  "universe_id": "univ_020",
+  "name": "Transformers",
+  "type": "films/animation",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9481"
+  },
+  "universe_id": "univ_021",
+  "name": "Rick and Morty",
+  "type": "animation",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9482"
+  },
+  "universe_id": "univ_022",
+  "name": "Stranger Things",
+  "type": "series",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9483"
+  },
+  "universe_id": "univ_023",
+  "name": "Simpsons",
+  "type": "animation",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9484"
+  },
+  "universe_id": "univ_024",
+  "name": "Pokemon",
+  "type": "games/anime",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9485"
+  },
+  "universe_id": "univ_025",
+  "name": "Final Fantasy",
+  "type": "games",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9486"
+  },
+  "universe_id": "univ_026",
+  "name": "Avatar",
+  "type": "animation/films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9487"
+  },
+  "universe_id": "univ_027",
+  "name": "Naruto",
+  "type": "anime/manga",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9488"
+  },
+  "universe_id": "univ_028",
+  "name": "One Piece",
+  "type": "anime/manga",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9489"
+  },
+  "universe_id": "univ_029",
+  "name": "Matrix",
+  "type": "films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae948a"
+  },
+  "universe_id": "univ_030",
+  "name": "Dreamworks",
+  "type": "films/animation",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae948b"
+  },
+  "universe_id": "univ_031",
+  "name": "Disney",
+  "type": "films/animation",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae948c"
+  },
+  "universe_id": "univ_032",
+  "name": "Jogos Vorazes",
+  "type": "films/books",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae948d"
+  },
+  "universe_id": "univ_033",
+  "name": "Nintendo",
+  "type": "games",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae948e"
+  },
+  "universe_id": "univ_034",
+  "name": "SEGA",
+  "type": "games",
+  "origin": "Japan"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae948f"
+  },
+  "universe_id": "univ_035",
+  "name": "Mattel",
+  "type": "films/toys",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9490"
+  },
+  "universe_id": "univ_036",
+  "name": "Legalmente Loira",
+  "type": "films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9491"
+  },
+  "universe_id": "univ_037",
+  "name": "O Diabo Veste Prada",
+  "type": "films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9492"
+  },
+  "universe_id": "univ_038",
+  "name": "Meninas Malvadas",
+  "type": "films",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9493"
+  },
+  "universe_id": "univ_039",
+  "name": "Crônicas de Oz",
+  "type": "films/books",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9494"
+  },
+  "universe_id": "univ_040",
+  "name": "As Crônicas de Gelo e Fogo",
+  "type": "films/books",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9495"
+  },
+  "universe_id": "univ_041",
+  "name": "Saga Crepúsculo",
+  "type": "films/books",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6a26cb20e9ad55ef18ae9496"
+  },
+  "universe_id": "univ_042",
+  "name": "A Família Addams",
+  "type": "films/series",
+  "origin": "USA"
+}]

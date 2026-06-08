@@ -1,0 +1,959 @@
+[{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae956d"
+  },
+  "movie_id": "movie_001",
+  "name": "The Witcher (Netflix)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae956e"
+  },
+  "movie_id": "movie_002",
+  "name": "A New Hope, Return of the Jedi"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae956f"
+  },
+  "movie_id": "movie_003",
+  "name": "Assassin's Creed (2016)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9570"
+  },
+  "movie_id": "movie_004",
+  "name": "The Last of Us"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9571"
+  },
+  "movie_id": "movie_005",
+  "name": "Empire Strikes Back"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9572"
+  },
+  "movie_id": "movie_006",
+  "name": "Attack of the Clones"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9573"
+  },
+  "movie_id": "movie_007",
+  "name": "What If...?"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9574"
+  },
+  "movie_id": "movie_008",
+  "name": "John Wick"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9575"
+  },
+  "movie_id": "movie_009",
+  "name": "John Wick 4"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9576"
+  },
+  "movie_id": "movie_010",
+  "name": "One Punch Man Series"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9577"
+  },
+  "movie_id": "movie_011",
+  "name": "I"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9578"
+  },
+  "movie_id": "movie_012",
+  "name": "r"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9579"
+  },
+  "movie_id": "movie_013",
+  "name": "o"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae957a"
+  },
+  "movie_id": "movie_014",
+  "name": "n"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae957b"
+  },
+  "movie_id": "movie_015",
+  "name": ""
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae957c"
+  },
+  "movie_id": "movie_016",
+  "name": "M"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae957d"
+  },
+  "movie_id": "movie_017",
+  "name": "a"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae957e"
+  },
+  "movie_id": "movie_018",
+  "name": "1"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae957f"
+  },
+  "movie_id": "movie_019",
+  "name": ","
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9580"
+  },
+  "movie_id": "movie_020",
+  "name": "2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9581"
+  },
+  "movie_id": "movie_021",
+  "name": "v"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9582"
+  },
+  "movie_id": "movie_022",
+  "name": "e"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9583"
+  },
+  "movie_id": "movie_023",
+  "name": "g"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9584"
+  },
+  "movie_id": "movie_024",
+  "name": "s"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9585"
+  },
+  "movie_id": "movie_025",
+  "name": ":"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9586"
+  },
+  "movie_id": "movie_026",
+  "name": "d"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9587"
+  },
+  "movie_id": "movie_027",
+  "name": "A New Hope"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9588"
+  },
+  "movie_id": "movie_028",
+  "name": "Return of the Jedi"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9589"
+  },
+  "movie_id": "movie_029",
+  "name": "Sorcerer's stone"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae958a"
+  },
+  "movie_id": "movie_030",
+  "name": "Chamber of secrets"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae958b"
+  },
+  "movie_id": "movie_031",
+  "name": "prisoner of azkaban"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae958c"
+  },
+  "movie_id": "movie_032",
+  "name": "Halo: Nightfall"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae958d"
+  },
+  "movie_id": "movie_033",
+  "name": "The Fellowship of the Ring"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae958e"
+  },
+  "movie_id": "movie_034",
+  "name": "The Two Towers"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae958f"
+  },
+  "movie_id": "movie_035",
+  "name": "The Return of the King"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9590"
+  },
+  "movie_id": "movie_036",
+  "name": "The Dark Knight"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9591"
+  },
+  "movie_id": "movie_037",
+  "name": "Batman Begins"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9592"
+  },
+  "movie_id": "movie_038",
+  "name": "The Batman"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9593"
+  },
+  "movie_id": "movie_039",
+  "name": "Tomb Raider (2001), Tomb Raider (2018)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9594"
+  },
+  "movie_id": "movie_040",
+  "name": "Dragon Ball Super: Broly"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9595"
+  },
+  "movie_id": "movie_041",
+  "name": "Resurrection F"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9596"
+  },
+  "movie_id": "movie_042",
+  "name": "Broly"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9597"
+  },
+  "movie_id": "movie_043",
+  "name": "Super Mario Bros (1993)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9598"
+  },
+  "movie_id": "movie_044",
+  "name": "Super Mario Bros Movie (2023)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae9599"
+  },
+  "movie_id": "movie_045",
+  "name": "Sonic (2020)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae959a"
+  },
+  "movie_id": "movie_046",
+  "name": "Sonic 2 (2022)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae959b"
+  },
+  "movie_id": "movie_047",
+  "name": "Infinity War"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae959c"
+  },
+  "movie_id": "movie_048",
+  "name": "Endgame"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae959d"
+  },
+  "movie_id": "movie_049",
+  "name": "The Mandalorian"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae959e"
+  },
+  "movie_id": "movie_050",
+  "name": "The Last: Naruto the Movie"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae959f"
+  },
+  "movie_id": "movie_051",
+  "name": "Boruto: Naruto the Movie"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a0"
+  },
+  "movie_id": "movie_052",
+  "name": "One Piece: Red"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a1"
+  },
+  "movie_id": "movie_053",
+  "name": "Transformers (2007), Rise of the Beasts"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a2"
+  },
+  "movie_id": "movie_054",
+  "name": "Transformers (2007)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a3"
+  },
+  "movie_id": "movie_055",
+  "name": "Dark of the Moon"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a4"
+  },
+  "movie_id": "movie_056",
+  "name": "TV series"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a5"
+  },
+  "movie_id": "movie_057",
+  "name": "t"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a6"
+  },
+  "movie_id": "movie_058",
+  "name": "f"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a7"
+  },
+  "movie_id": "movie_059",
+  "name": "l"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a8"
+  },
+  "movie_id": "movie_060",
+  "name": "x"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95a9"
+  },
+  "movie_id": "movie_061",
+  "name": "The Simpsons Movie"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95aa"
+  },
+  "movie_id": "movie_062",
+  "name": "Across the Spider-Verse"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ab"
+  },
+  "movie_id": "movie_063",
+  "name": "Pokémon: I Choose You!"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ac"
+  },
+  "movie_id": "movie_064",
+  "name": "Detective Pikachu"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ad"
+  },
+  "movie_id": "movie_065",
+  "name": "Advent Children"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ae"
+  },
+  "movie_id": "movie_066",
+  "name": "The Last Airbender"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95af"
+  },
+  "movie_id": "movie_067",
+  "name": "Animated series"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b0"
+  },
+  "movie_id": "movie_068",
+  "name": "Black Panther"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b1"
+  },
+  "movie_id": "movie_069",
+  "name": "Wonder Woman"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b2"
+  },
+  "movie_id": "movie_070",
+  "name": "Justice League"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b3"
+  },
+  "movie_id": "movie_071",
+  "name": "The Flash (2023)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b4"
+  },
+  "movie_id": "movie_072",
+  "name": "Shrek"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b5"
+  },
+  "movie_id": "movie_073",
+  "name": "Shrek 2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b6"
+  },
+  "movie_id": "movie_074",
+  "name": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b7"
+  },
+  "movie_id": "movie_075",
+  "name": "Matrix Reloaded"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b8"
+  },
+  "movie_id": "movie_076",
+  "name": "Matrix Revolutions"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95b9"
+  },
+  "movie_id": "movie_077",
+  "name": "Deathly Hallows"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ba"
+  },
+  "movie_id": "movie_078",
+  "name": "Fellowship of the Ring"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95bb"
+  },
+  "movie_id": "movie_079",
+  "name": "Black Panther: Wakanda Forever"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95bc"
+  },
+  "movie_id": "movie_080",
+  "name": "Cinderela"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95bd"
+  },
+  "movie_id": "movie_081",
+  "name": "Cinderela II"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95be"
+  },
+  "movie_id": "movie_082",
+  "name": "Cinderela III"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95bf"
+  },
+  "movie_id": "movie_083",
+  "name": "Barbie em O Quebra-Nozes"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c0"
+  },
+  "movie_id": "movie_084",
+  "name": "Barbie como Rapunzel"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c1"
+  },
+  "movie_id": "movie_085",
+  "name": "Barbie (2023)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c2"
+  },
+  "movie_id": "movie_086",
+  "name": "Frozen: Uma Aventura Congelante"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c3"
+  },
+  "movie_id": "movie_087",
+  "name": "Frozen II"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c4"
+  },
+  "movie_id": "movie_088",
+  "name": "Olaf em uma Aventura Congelante de Frozen"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c5"
+  },
+  "movie_id": "movie_089",
+  "name": "Batman vs Superman"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c6"
+  },
+  "movie_id": "movie_090",
+  "name": "Mulher-Maravilha"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c7"
+  },
+  "movie_id": "movie_091",
+  "name": "Liga da Justiça"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c8"
+  },
+  "movie_id": "movie_092",
+  "name": "Legalmente Loira"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95c9"
+  },
+  "movie_id": "movie_093",
+  "name": "Legalmente Loira 2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ca"
+  },
+  "movie_id": "movie_094",
+  "name": "A Princesa e o Sapo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95cb"
+  },
+  "movie_id": "movie_095",
+  "name": "Jogos Vorazes"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95cc"
+  },
+  "movie_id": "movie_096",
+  "name": "Em Chamas"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95cd"
+  },
+  "movie_id": "movie_097",
+  "name": "A Esperança"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ce"
+  },
+  "movie_id": "movie_098",
+  "name": "Homem de Ferro 2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95cf"
+  },
+  "movie_id": "movie_099",
+  "name": "Os Vingadores"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d0"
+  },
+  "movie_id": "movie_100",
+  "name": "Capitão América: O Soldado Invernal"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d1"
+  },
+  "movie_id": "movie_101",
+  "name": "Ultimato"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d2"
+  },
+  "movie_id": "movie_102",
+  "name": "O Diabo Veste Prada"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d3"
+  },
+  "movie_id": "movie_103",
+  "name": "O Diabo Veste Prada 2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d4"
+  },
+  "movie_id": "movie_104",
+  "name": "Enrolados"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d5"
+  },
+  "movie_id": "movie_105",
+  "name": "Enrolados Outra Vez"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d6"
+  },
+  "movie_id": "movie_106",
+  "name": "Lara Croft: Tomb Raider"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d7"
+  },
+  "movie_id": "movie_107",
+  "name": "Mulan"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d8"
+  },
+  "movie_id": "movie_108",
+  "name": "Mulan II"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95d9"
+  },
+  "movie_id": "movie_109",
+  "name": "A Família Addams"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95da"
+  },
+  "movie_id": "movie_110",
+  "name": "A Família Addams 2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95db"
+  },
+  "movie_id": "movie_111",
+  "name": "Série Game of Thrones"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95dc"
+  },
+  "movie_id": "movie_112",
+  "name": "Meninas Malvadas"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95dd"
+  },
+  "movie_id": "movie_113",
+  "name": "A Pequena Sereia"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95de"
+  },
+  "movie_id": "movie_114",
+  "name": "A Pequena Sereia: A História de Ariel"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95df"
+  },
+  "movie_id": "movie_115",
+  "name": "Uma Nova Esperança"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e0"
+  },
+  "movie_id": "movie_116",
+  "name": "O Império Contra-Ataca"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e1"
+  },
+  "movie_id": "movie_117",
+  "name": "O Retorno de Jedi"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e2"
+  },
+  "movie_id": "movie_118",
+  "name": "O Despertar da Força"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e3"
+  },
+  "movie_id": "movie_119",
+  "name": "A Bela Adormecida"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e4"
+  },
+  "movie_id": "movie_120",
+  "name": "Malévola"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e5"
+  },
+  "movie_id": "movie_121",
+  "name": "Malévola: Dona do Mal"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e6"
+  },
+  "movie_id": "movie_122",
+  "name": "Capitã Marvel"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e7"
+  },
+  "movie_id": "movie_123",
+  "name": "Crepúsculo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e8"
+  },
+  "movie_id": "movie_124",
+  "name": "Lua Nova"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95e9"
+  },
+  "movie_id": "movie_125",
+  "name": "Eclipse"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ea"
+  },
+  "movie_id": "movie_126",
+  "name": "Amanhecer"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95eb"
+  },
+  "movie_id": "movie_127",
+  "name": "Mary Poppins"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ec"
+  },
+  "movie_id": "movie_128",
+  "name": "O Retorno de Mary Poppins"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ed"
+  },
+  "movie_id": "movie_129",
+  "name": "Moana: Um Mar de Aventuras"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ee"
+  },
+  "movie_id": "movie_130",
+  "name": "Moana 2"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95ef"
+  },
+  "movie_id": "movie_131",
+  "name": "Aves de Rapina"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95f0"
+  },
+  "movie_id": "movie_132",
+  "name": "O Mágico de Oz"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95f1"
+  },
+  "movie_id": "movie_133",
+  "name": "A Bela e a Fera"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95f2"
+  },
+  "movie_id": "movie_134",
+  "name": "O Natal Encantado da Bela e a Fera"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95f3"
+  },
+  "movie_id": "movie_135",
+  "name": "Princesinha Sofia: Era Uma Vez uma Princesa"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95f4"
+  },
+  "movie_id": "movie_136",
+  "name": "101 Dálmatas"
+},
+{
+  "_id": {
+    "$oid": "6a26cbeee9ad55ef18ae95f5"
+  },
+  "movie_id": "movie_137",
+  "name": "Cruella"
+}]

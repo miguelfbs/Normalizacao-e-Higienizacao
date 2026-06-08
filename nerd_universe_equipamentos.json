@@ -1,0 +1,1260 @@
+[{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94b6"
+  },
+  "equipment_id": "equip_001",
+  "name": "Silver Sword"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94b7"
+  },
+  "equipment_id": "equip_002",
+  "name": "Steel Sword"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94b8"
+  },
+  "equipment_id": "equip_003",
+  "name": "Blaster"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94b9"
+  },
+  "equipment_id": "equip_004",
+  "name": "Leadership"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ba"
+  },
+  "equipment_id": "equip_005",
+  "name": "Power Suit"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94bb"
+  },
+  "equipment_id": "equip_006",
+  "name": "Arm cannon"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94bc"
+  },
+  "equipment_id": "equip_007",
+  "name": "Morph Ball"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94bd"
+  },
+  "equipment_id": "equip_008",
+  "name": "Hidden Blades, Sword, Cape"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94be"
+  },
+  "equipment_id": "equip_009",
+  "name": "Bow, Spear, Focus device"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94bf"
+  },
+  "equipment_id": "equip_010",
+  "name": "Knife, Revolver, Immunity"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c0"
+  },
+  "equipment_id": "equip_011",
+  "name": "Rifle"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c1"
+  },
+  "equipment_id": "equip_012",
+  "name": "Brutal strength"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c2"
+  },
+  "equipment_id": "equip_013",
+  "name": "Lightsaber, Force wisdom"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c3"
+  },
+  "equipment_id": "equip_014",
+  "name": "Armor"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c4"
+  },
+  "equipment_id": "equip_015",
+  "name": "Hunger"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c5"
+  },
+  "equipment_id": "equip_016",
+  "name": "Mega Buster, Armor"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c6"
+  },
+  "equipment_id": "equip_017",
+  "name": "Guns"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c7"
+  },
+  "equipment_id": "equip_018",
+  "name": "Dog"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c8"
+  },
+  "equipment_id": "equip_019",
+  "name": "Suit"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94c9"
+  },
+  "equipment_id": "equip_020",
+  "name": "F"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ca"
+  },
+  "equipment_id": "equip_021",
+  "name": "i"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94cb"
+  },
+  "equipment_id": "equip_022",
+  "name": "s"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94cc"
+  },
+  "equipment_id": "equip_023",
+  "name": "t"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94cd"
+  },
+  "equipment_id": "equip_024",
+  "name": ","
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ce"
+  },
+  "equipment_id": "equip_025",
+  "name": ""
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94cf"
+  },
+  "equipment_id": "equip_026",
+  "name": "C"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d0"
+  },
+  "equipment_id": "equip_027",
+  "name": "a"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d1"
+  },
+  "equipment_id": "equip_028",
+  "name": "p"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d2"
+  },
+  "equipment_id": "equip_029",
+  "name": "e"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d3"
+  },
+  "equipment_id": "equip_030",
+  "name": "AI Assistant"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d4"
+  },
+  "equipment_id": "equip_031",
+  "name": "Money"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d5"
+  },
+  "equipment_id": "equip_032",
+  "name": "Lightsaber"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d6"
+  },
+  "equipment_id": "equip_033",
+  "name": "Force"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d7"
+  },
+  "equipment_id": "equip_034",
+  "name": "Wand"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d8"
+  },
+  "equipment_id": "equip_035",
+  "name": "Cloak"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94d9"
+  },
+  "equipment_id": "equip_036",
+  "name": "Owl"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94da"
+  },
+  "equipment_id": "equip_037",
+  "name": "Web"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94db"
+  },
+  "equipment_id": "equip_038",
+  "name": "Shooters"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94dc"
+  },
+  "equipment_id": "equip_039",
+  "name": "Costume"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94dd"
+  },
+  "equipment_id": "equip_040",
+  "name": "Mjolnir Armor"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94de"
+  },
+  "equipment_id": "equip_041",
+  "name": "Assault rifle"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94df"
+  },
+  "equipment_id": "equip_042",
+  "name": "Staff"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e0"
+  },
+  "equipment_id": "equip_043",
+  "name": "Sword"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e1"
+  },
+  "equipment_id": "equip_044",
+  "name": "Horse"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e2"
+  },
+  "equipment_id": "equip_045",
+  "name": "Batsuit"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e3"
+  },
+  "equipment_id": "equip_046",
+  "name": "Batmobile"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e4"
+  },
+  "equipment_id": "equip_047",
+  "name": "Pistols"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e5"
+  },
+  "equipment_id": "equip_048",
+  "name": "Grappling Hook"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e6"
+  },
+  "equipment_id": "equip_049",
+  "name": "Wit"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e7"
+  },
+  "equipment_id": "equip_050",
+  "name": "Potions"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e8"
+  },
+  "equipment_id": "equip_051",
+  "name": "Signs"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94e9"
+  },
+  "equipment_id": "equip_052",
+  "name": "Power pole"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ea"
+  },
+  "equipment_id": "equip_053",
+  "name": "Nimbus"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94eb"
+  },
+  "equipment_id": "equip_054",
+  "name": "Scouter"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ec"
+  },
+  "equipment_id": "equip_055",
+  "name": "Master Sword"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ed"
+  },
+  "equipment_id": "equip_056",
+  "name": "Shield"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ee"
+  },
+  "equipment_id": "equip_057",
+  "name": "Ocarina"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ef"
+  },
+  "equipment_id": "equip_058",
+  "name": "Wisdom"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f0"
+  },
+  "equipment_id": "equip_059",
+  "name": "Magic"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f1"
+  },
+  "equipment_id": "equip_060",
+  "name": "Bow"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f2"
+  },
+  "equipment_id": "equip_061",
+  "name": "Blades of Chaos"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f3"
+  },
+  "equipment_id": "equip_062",
+  "name": "Leviathan Axe"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f4"
+  },
+  "equipment_id": "equip_063",
+  "name": "Rage"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f5"
+  },
+  "equipment_id": "equip_064",
+  "name": "Hat"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f6"
+  },
+  "equipment_id": "equip_065",
+  "name": "Moustache"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f7"
+  },
+  "equipment_id": "equip_066",
+  "name": "Jump"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f8"
+  },
+  "equipment_id": "equip_067",
+  "name": "Vacuum"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94f9"
+  },
+  "equipment_id": "equip_068",
+  "name": "Courage"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94fa"
+  },
+  "equipment_id": "equip_069",
+  "name": "Speed"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94fb"
+  },
+  "equipment_id": "equip_070",
+  "name": "Rings"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94fc"
+  },
+  "equipment_id": "equip_071",
+  "name": "Infinity Gauntlet"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94fd"
+  },
+  "equipment_id": "equip_072",
+  "name": "Cuteness"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94fe"
+  },
+  "equipment_id": "equip_073",
+  "name": "Chakra"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae94ff"
+  },
+  "equipment_id": "equip_074",
+  "name": "Kunai"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9500"
+  },
+  "equipment_id": "equip_075",
+  "name": "Rasengan"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9501"
+  },
+  "equipment_id": "equip_076",
+  "name": "Sharingan"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9502"
+  },
+  "equipment_id": "equip_077",
+  "name": "Straw Hat"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9503"
+  },
+  "equipment_id": "equip_078",
+  "name": "Devil fruit powers"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9504"
+  },
+  "equipment_id": "equip_079",
+  "name": "Energon sword"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9505"
+  },
+  "equipment_id": "equip_080",
+  "name": "Fusion Cannon"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9506"
+  },
+  "equipment_id": "equip_081",
+  "name": "Evil Plans"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9507"
+  },
+  "equipment_id": "equip_082",
+  "name": "Portal Gun"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9508"
+  },
+  "equipment_id": "equip_083",
+  "name": "Sarcasm"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9509"
+  },
+  "equipment_id": "equip_084",
+  "name": "Nervousness"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae950a"
+  },
+  "equipment_id": "equip_085",
+  "name": "Grandpa"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae950b"
+  },
+  "equipment_id": "equip_086",
+  "name": "Elekinesis, Eggos"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae950c"
+  },
+  "equipment_id": "equip_087",
+  "name": "d"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae950d"
+  },
+  "equipment_id": "equip_088",
+  "name": "o"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae950e"
+  },
+  "equipment_id": "equip_089",
+  "name": "n"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae950f"
+  },
+  "equipment_id": "equip_090",
+  "name": "u"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9510"
+  },
+  "equipment_id": "equip_091",
+  "name": "b"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9511"
+  },
+  "equipment_id": "equip_092",
+  "name": "r"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9512"
+  },
+  "equipment_id": "equip_093",
+  "name": "Spider powers, Hoodie"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9513"
+  },
+  "equipment_id": "equip_094",
+  "name": "Pikachu, Pokeballs"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9514"
+  },
+  "equipment_id": "equip_095",
+  "name": "Thunderbolt, Cuteness"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9515"
+  },
+  "equipment_id": "equip_096",
+  "name": "Buster Sword"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9516"
+  },
+  "equipment_id": "equip_097",
+  "name": "Masamune Sword, One Wing"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9517"
+  },
+  "equipment_id": "equip_098",
+  "name": "Staff, Glider"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9518"
+  },
+  "equipment_id": "equip_099",
+  "name": "Waterbending"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9519"
+  },
+  "equipment_id": "equip_100",
+  "name": "Boomerang, Sarcasm"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae951a"
+  },
+  "equipment_id": "equip_101",
+  "name": "Vibranium suit"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae951b"
+  },
+  "equipment_id": "equip_102",
+  "name": "Claws"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae951c"
+  },
+  "equipment_id": "equip_103",
+  "name": "Lasso of Truth, Sword, Shield"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae951d"
+  },
+  "equipment_id": "equip_104",
+  "name": "Speedforce"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae951e"
+  },
+  "equipment_id": "equip_105",
+  "name": "Swamp, Onions"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae951f"
+  },
+  "equipment_id": "equip_106",
+  "name": "Humor"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9520"
+  },
+  "equipment_id": "equip_107",
+  "name": "Kung fu"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9521"
+  },
+  "equipment_id": "equip_108",
+  "name": "Code vision"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9522"
+  },
+  "equipment_id": "equip_109",
+  "name": "Guns, Martial arts"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9523"
+  },
+  "equipment_id": "equip_110",
+  "name": "Virus Powers"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9524"
+  },
+  "equipment_id": "equip_111",
+  "name": "Wand, Intelligence"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9525"
+  },
+  "equipment_id": "equip_112",
+  "name": "One ring, Darkness"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9526"
+  },
+  "equipment_id": "equip_113",
+  "name": "Sapatinho de Cristal"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9527"
+  },
+  "equipment_id": "equip_114",
+  "name": "Fada Madrinha"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9528"
+  },
+  "equipment_id": "equip_115",
+  "name": "Carruagem de Abóbora"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9529"
+  },
+  "equipment_id": "equip_116",
+  "name": "Casa dos Sonhos"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae952a"
+  },
+  "equipment_id": "equip_117",
+  "name": "Corvette Rosa"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae952b"
+  },
+  "equipment_id": "equip_118",
+  "name": "Carreiras Infinitas"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae952c"
+  },
+  "equipment_id": "equip_119",
+  "name": "Magia de Gelo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae952d"
+  },
+  "equipment_id": "equip_120",
+  "name": "Castelo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae952e"
+  },
+  "equipment_id": "equip_121",
+  "name": "Varinha"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae952f"
+  },
+  "equipment_id": "equip_122",
+  "name": "Vira-tempo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9530"
+  },
+  "equipment_id": "equip_123",
+  "name": "Livros"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9531"
+  },
+  "equipment_id": "equip_124",
+  "name": "Laço da Verdade"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9532"
+  },
+  "equipment_id": "equip_125",
+  "name": "Braceletes"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9533"
+  },
+  "equipment_id": "equip_126",
+  "name": "Escudo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9534"
+  },
+  "equipment_id": "equip_127",
+  "name": "Bruiser (cachorro)"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9535"
+  },
+  "equipment_id": "equip_128",
+  "name": "Bloco de Notas Rosa"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9536"
+  },
+  "equipment_id": "equip_129",
+  "name": "Diploma de Direito"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9537"
+  },
+  "equipment_id": "equip_130",
+  "name": "Receita de Restaurante"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9538"
+  },
+  "equipment_id": "equip_131",
+  "name": "Forma de Sapo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9539"
+  },
+  "equipment_id": "equip_132",
+  "name": "Arco e Flecha"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae953a"
+  },
+  "equipment_id": "equip_133",
+  "name": "Broche do Tordo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae953b"
+  },
+  "equipment_id": "equip_134",
+  "name": "Ferrão da Viúva"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae953c"
+  },
+  "equipment_id": "equip_135",
+  "name": "Bastões"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae953d"
+  },
+  "equipment_id": "equip_136",
+  "name": "Pistolas"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae953e"
+  },
+  "equipment_id": "equip_137",
+  "name": "Revista Runway"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae953f"
+  },
+  "equipment_id": "equip_138",
+  "name": "Alta Costura"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9540"
+  },
+  "equipment_id": "equip_139",
+  "name": "Café"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9541"
+  },
+  "equipment_id": "equip_140",
+  "name": "Frigideira"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9542"
+  },
+  "equipment_id": "equip_141",
+  "name": "Cabelo Mágico"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9543"
+  },
+  "equipment_id": "equip_142",
+  "name": "Pascal"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9544"
+  },
+  "equipment_id": "equip_143",
+  "name": "Pistolas Duplas"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9545"
+  },
+  "equipment_id": "equip_144",
+  "name": "Machado de Escalada"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9546"
+  },
+  "equipment_id": "equip_145",
+  "name": "Espada"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9547"
+  },
+  "equipment_id": "equip_146",
+  "name": "Brasão dos Ancestrais"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9548"
+  },
+  "equipment_id": "equip_147",
+  "name": "Mushu"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9549"
+  },
+  "equipment_id": "equip_148",
+  "name": "Mãozinha"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae954a"
+  },
+  "equipment_id": "equip_149",
+  "name": "Violoncelo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae954b"
+  },
+  "equipment_id": "equip_150",
+  "name": "Veneno"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae954c"
+  },
+  "equipment_id": "equip_151",
+  "name": "Dragões"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae954d"
+  },
+  "equipment_id": "equip_152",
+  "name": "Imunidade ao Fogo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae954e"
+  },
+  "equipment_id": "equip_153",
+  "name": "Livro do Arraso"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae954f"
+  },
+  "equipment_id": "equip_154",
+  "name": "Roupa Rosa"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9550"
+  },
+  "equipment_id": "equip_155",
+  "name": "Ginguiriça"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9551"
+  },
+  "equipment_id": "equip_156",
+  "name": "Contrato de Voz"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9552"
+  },
+  "equipment_id": "equip_157",
+  "name": "Detonador Térmico"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9553"
+  },
+  "equipment_id": "equip_158",
+  "name": "A Força"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9554"
+  },
+  "equipment_id": "equip_159",
+  "name": "Cajado"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9555"
+  },
+  "equipment_id": "equip_160",
+  "name": "Forma de Dragão"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9556"
+  },
+  "equipment_id": "equip_161",
+  "name": "Corvo"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9557"
+  },
+  "equipment_id": "equip_162",
+  "name": "Rajadas de Fótons"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9558"
+  },
+  "equipment_id": "equip_163",
+  "name": "Traje Kree"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9559"
+  },
+  "equipment_id": "equip_164",
+  "name": "Escudo Mental"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae955a"
+  },
+  "equipment_id": "equip_165",
+  "name": "Bolsa de Carpete"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae955b"
+  },
+  "equipment_id": "equip_166",
+  "name": "Guarda-chuva"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae955c"
+  },
+  "equipment_id": "equip_167",
+  "name": "Fita Métrica Mágica"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae955d"
+  },
+  "equipment_id": "equip_168",
+  "name": "Coração de Te Fiti"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae955e"
+  },
+  "equipment_id": "equip_169",
+  "name": "Canoa de Navegação"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae955f"
+  },
+  "equipment_id": "equip_170",
+  "name": "Taco de Beisebol"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9560"
+  },
+  "equipment_id": "equip_171",
+  "name": "Marreta"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9561"
+  },
+  "equipment_id": "equip_172",
+  "name": "Martelo Gigante"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9562"
+  },
+  "equipment_id": "equip_173",
+  "name": "Sapatinhos de Rubi"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9563"
+  },
+  "equipment_id": "equip_174",
+  "name": "Totó"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9564"
+  },
+  "equipment_id": "equip_175",
+  "name": "Rosa Encantada"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9565"
+  },
+  "equipment_id": "equip_176",
+  "name": "Magia do Caos"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9566"
+  },
+  "equipment_id": "equip_177",
+  "name": "Darkhold"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9567"
+  },
+  "equipment_id": "equip_178",
+  "name": "Amuleto de Avalor"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9568"
+  },
+  "equipment_id": "equip_179",
+  "name": "Casaco de Pele"
+},
+{
+  "_id": {
+    "$oid": "6a26cbbde9ad55ef18ae9569"
+  },
+  "equipment_id": "equip_180",
+  "name": "Carro Panther de Vil"
+}]

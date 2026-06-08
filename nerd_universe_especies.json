@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae949a"
+  },
+  "species_id": "spec_001",
+  "name": "Human",
+  "description": "Ser humano padrão, sem poderes sobrenaturais inerentes"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae949b"
+  },
+  "species_id": "spec_002",
+  "name": "Saiyan",
+  "description": "Raça alienígena guerreira com capacidade de atingir transformações de poder extremo"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae949c"
+  },
+  "species_id": "spec_003",
+  "name": "Hylian",
+  "description": "Povo élfico do reino de Hyrule, de Legend of Zelda"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae949d"
+  },
+  "species_id": "spec_004",
+  "name": "Yoda species",
+  "description": "Espécie alienígena de força sensível, de origem desconhecida em Star Wars"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae949e"
+  },
+  "species_id": "spec_005",
+  "name": "Android",
+  "description": "Robô ou ser cibernético construído para emular humanos"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae949f"
+  },
+  "species_id": "spec_006",
+  "name": "AI Program",
+  "description": "Programa de inteligência artificial com consciência simulada"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a0"
+  },
+  "species_id": "spec_007",
+  "name": "Autobot",
+  "description": "Cybertronianos robóticos aliados dos humanos, dos Transformers"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a1"
+  },
+  "species_id": "spec_008",
+  "name": "Decepticon",
+  "description": "Cybertronianos robóticos vilões, dos Transformers"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a2"
+  },
+  "species_id": "spec_009",
+  "name": "Maia",
+  "description": "Espíritos angelicais da mitologia tolkieniana"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a3"
+  },
+  "species_id": "spec_010",
+  "name": "Titan (Eternal)",
+  "description": "Ser eterno de tamanho e poder colossal, do universo Marvel"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a4"
+  },
+  "species_id": "spec_011",
+  "name": "Demigod",
+  "description": "Ser de origem semidivina, com poderes sobre-humanos"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a5"
+  },
+  "species_id": "spec_012",
+  "name": "Ogre",
+  "description": "Criatura humanóide de grande porte e força, de contos de fadas"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a6"
+  },
+  "species_id": "spec_013",
+  "name": "Hedgehog",
+  "description": "Ouriço antropomórfico com supervelocidade"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a7"
+  },
+  "species_id": "spec_014",
+  "name": "Donkey",
+  "description": "Burro falante com personalidade humana"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a8"
+  },
+  "species_id": "spec_015",
+  "name": "Electric Mouse",
+  "description": "Pokémon do tipo elétrico, mascote da franquia Pokémon"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94a9"
+  },
+  "species_id": "spec_016",
+  "name": "Undead Human",
+  "description": "Humano reanimado sem vida vital, morto-vivo"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94aa"
+  },
+  "species_id": "spec_017",
+  "name": "Mutant Human",
+  "description": "Humano modificado geneticamente ou por magia/mutação"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94ab"
+  },
+  "species_id": "spec_018",
+  "name": "Witch",
+  "description": "Ser humano com poderes mágicos ou místicos"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94ac"
+  },
+  "species_id": "spec_019",
+  "name": "Mermaid",
+  "description": "Ser metade humano, metade peixe, do folclore marítimo"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94ad"
+  },
+  "species_id": "spec_020",
+  "name": "Fairy",
+  "description": "Criatura mágica alada do folclore europeu"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94ae"
+  },
+  "species_id": "spec_021",
+  "name": "Plastic Doll",
+  "description": "Boneca de plástico com vida e identidade própria"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94af"
+  },
+  "species_id": "spec_022",
+  "name": "Human-Kree Hybrid",
+  "description": "Híbrido entre humano e Kree, raça alienígena do universo Marvel"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94b0"
+  },
+  "species_id": "spec_023",
+  "name": "Human (Air Nomad)",
+  "description": "Humano pertencente à cultura dos Nômades do Ar, com domínio do ar"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94b1"
+  },
+  "species_id": "spec_024",
+  "name": "Human (Cartoon)",
+  "description": "Humano de universo animado com lógica caricata"
+},
+{
+  "_id": {
+    "$oid": "6a26cb55e9ad55ef18ae94b2"
+  },
+  "species_id": "spec_025",
+  "name": "Amazon Demigoddess",
+  "description": "Guerreira amazona com origem semidivina (filha de Zeus)"
+}]

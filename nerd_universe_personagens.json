@@ -1,0 +1,1652 @@
+[{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95f9"
+  },
+  "character_id": "char_001",
+  "name": "Geralt of Rivia",
+  "universe_id": "univ_001",
+  "species_id": "spec_017",
+  "power_level": 88,
+  "debut_year": 2007,
+  "equipment_ids": [
+    "equip_001",
+    "equip_002"
+  ],
+  "movie_ids": [
+    "movie_001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95fa"
+  },
+  "character_id": "char_002",
+  "name": "Leia Organa",
+  "universe_id": "univ_002",
+  "species_id": "spec_001",
+  "power_level": 75,
+  "debut_year": 1977,
+  "equipment_ids": [
+    "equip_003",
+    "equip_004"
+  ],
+  "movie_ids": [
+    "movie_002"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95fb"
+  },
+  "character_id": "char_003",
+  "name": "Samus Aran",
+  "universe_id": "univ_003",
+  "species_id": "spec_001",
+  "power_level": 84,
+  "debut_year": 1986,
+  "equipment_ids": [
+    "equip_005",
+    "equip_006",
+    "equip_007"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95fc"
+  },
+  "character_id": "char_004",
+  "name": "Ezio Auditore",
+  "universe_id": "univ_004",
+  "species_id": "spec_001",
+  "power_level": 77,
+  "debut_year": 2009,
+  "equipment_ids": [
+    "equip_008"
+  ],
+  "movie_ids": [
+    "movie_003"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95fd"
+  },
+  "character_id": "char_005",
+  "name": "Aloy",
+  "universe_id": "univ_005",
+  "species_id": "spec_001",
+  "power_level": 83,
+  "debut_year": 2017,
+  "equipment_ids": [
+    "equip_009"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95fe"
+  },
+  "character_id": "char_006",
+  "name": "Ellie",
+  "universe_id": "univ_006",
+  "species_id": "spec_001",
+  "power_level": 70,
+  "debut_year": 2013,
+  "equipment_ids": [
+    "equip_010"
+  ],
+  "movie_ids": [
+    "movie_004"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae95ff"
+  },
+  "character_id": "char_007",
+  "name": "Joel Miller",
+  "universe_id": "univ_006",
+  "species_id": "spec_001",
+  "power_level": 71,
+  "debut_year": 2013,
+  "equipment_ids": [
+    "equip_011",
+    "equip_012"
+  ],
+  "movie_ids": [
+    "movie_004"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9600"
+  },
+  "character_id": "char_008",
+  "name": "Master Yoda",
+  "universe_id": "univ_002",
+  "species_id": "spec_004",
+  "power_level": 94,
+  "debut_year": 1980,
+  "equipment_ids": [
+    "equip_013"
+  ],
+  "movie_ids": [
+    "movie_005",
+    "movie_006"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9601"
+  },
+  "character_id": "char_009",
+  "name": "Tony Stark (Zombie)",
+  "universe_id": "univ_017",
+  "species_id": "spec_016",
+  "power_level": 65,
+  "debut_year": 2021,
+  "equipment_ids": [
+    "equip_014",
+    "equip_015"
+  ],
+  "movie_ids": [
+    "movie_007"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9602"
+  },
+  "character_id": "char_010",
+  "name": "Megaman",
+  "universe_id": "univ_016",
+  "species_id": "spec_005",
+  "power_level": 80,
+  "debut_year": 1987,
+  "equipment_ids": [
+    "equip_016"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9603"
+  },
+  "character_id": "char_011",
+  "name": "John Wick",
+  "universe_id": "univ_014",
+  "species_id": "spec_001",
+  "power_level": 85,
+  "debut_year": 2014,
+  "equipment_ids": [
+    "equip_017",
+    "equip_018",
+    "equip_019"
+  ],
+  "movie_ids": [
+    "movie_008",
+    "movie_009"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9604"
+  },
+  "character_id": "char_012",
+  "name": "Saitama",
+  "universe_id": "univ_015",
+  "species_id": "spec_001",
+  "power_level": 9999,
+  "debut_year": 2012,
+  "equipment_ids": [
+    "equip_020",
+    "equip_021",
+    "equip_022",
+    "equip_023",
+    "equip_022",
+    "equip_024",
+    "equip_025",
+    "equip_026",
+    "equip_027",
+    "equip_028",
+    "equip_029"
+  ],
+  "movie_ids": [
+    "movie_010"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9605"
+  },
+  "character_id": "char_013",
+  "name": "Tony Stark",
+  "universe_id": "univ_007",
+  "species_id": "spec_001",
+  "power_level": 95,
+  "debut_year": 1963,
+  "equipment_ids": [
+    "equip_014",
+    "equip_030",
+    "equip_031",
+    "equip_014"
+  ],
+  "movie_ids": [
+    "movie_011",
+    "movie_012",
+    "movie_013",
+    "movie_014",
+    "movie_015",
+    "movie_016",
+    "movie_017",
+    "movie_014",
+    "movie_015",
+    "movie_018",
+    "movie_019",
+    "movie_015",
+    "movie_011",
+    "movie_012",
+    "movie_013",
+    "movie_014",
+    "movie_015",
+    "movie_016",
+    "movie_017",
+    "movie_014",
+    "movie_015",
+    "movie_020",
+    "movie_019",
+    "movie_015",
+    "movie_017",
+    "movie_021",
+    "movie_022",
+    "movie_014",
+    "movie_023",
+    "movie_022",
+    "movie_012",
+    "movie_024",
+    "movie_019",
+    "movie_015",
+    "movie_017",
+    "movie_021",
+    "movie_022",
+    "movie_014",
+    "movie_023",
+    "movie_022",
+    "movie_012",
+    "movie_024",
+    "movie_025",
+    "movie_015",
+    "movie_022",
+    "movie_014",
+    "movie_026",
+    "movie_023",
+    "movie_017",
+    "movie_016",
+    "movie_022"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9606"
+  },
+  "character_id": "char_014",
+  "name": "Darth Vader",
+  "universe_id": "univ_002",
+  "species_id": "spec_017",
+  "power_level": 88,
+  "debut_year": 1977,
+  "equipment_ids": [
+    "equip_032",
+    "equip_014",
+    "equip_033"
+  ],
+  "movie_ids": [
+    "movie_027",
+    "movie_005",
+    "movie_028"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9607"
+  },
+  "character_id": "char_015",
+  "name": "Harry Potter",
+  "universe_id": "univ_009",
+  "species_id": "spec_001",
+  "power_level": null,
+  "debut_year": 1997,
+  "equipment_ids": [
+    "equip_034",
+    "equip_035",
+    "equip_036"
+  ],
+  "movie_ids": [
+    "movie_029",
+    "movie_030",
+    "movie_031"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9608"
+  },
+  "character_id": "char_016",
+  "name": "Peter Parker",
+  "universe_id": "univ_007",
+  "species_id": "spec_001",
+  "power_level": 89,
+  "debut_year": 1962,
+  "equipment_ids": [
+    "equip_037",
+    "equip_038",
+    "equip_039"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9609"
+  },
+  "character_id": "char_017",
+  "name": "Master Chief",
+  "universe_id": "univ_010",
+  "species_id": "spec_001",
+  "power_level": 100,
+  "debut_year": 2001,
+  "equipment_ids": [
+    "equip_040",
+    "equip_041"
+  ],
+  "movie_ids": [
+    "movie_032"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae960a"
+  },
+  "character_id": "char_018",
+  "name": "Gandalf the Grey",
+  "universe_id": "univ_011",
+  "species_id": "spec_009",
+  "power_level": 93,
+  "debut_year": 1954,
+  "equipment_ids": [
+    "equip_042",
+    "equip_043",
+    "equip_044"
+  ],
+  "movie_ids": [
+    "movie_033",
+    "movie_034",
+    "movie_035"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae960b"
+  },
+  "character_id": "char_019",
+  "name": "Batman",
+  "universe_id": "univ_008",
+  "species_id": "spec_001",
+  "power_level": 85,
+  "debut_year": 1939,
+  "equipment_ids": [
+    "equip_045",
+    "equip_046",
+    "equip_031"
+  ],
+  "movie_ids": [
+    "movie_036",
+    "movie_037",
+    "movie_038"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae960c"
+  },
+  "character_id": "char_020",
+  "name": "Lara Croft",
+  "universe_id": "univ_013",
+  "species_id": "spec_001",
+  "power_level": 76,
+  "debut_year": 1996,
+  "equipment_ids": [
+    "equip_047",
+    "equip_048",
+    "equip_049"
+  ],
+  "movie_ids": [
+    "movie_039"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae960d"
+  },
+  "character_id": "char_021",
+  "name": "Son Goku",
+  "universe_id": "univ_018",
+  "species_id": "spec_002",
+  "power_level": 9000,
+  "debut_year": 1984,
+  "equipment_ids": [
+    "equip_052",
+    "equip_053"
+  ],
+  "movie_ids": [
+    "movie_040"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae960e"
+  },
+  "character_id": "char_022",
+  "name": "Vegeta",
+  "universe_id": "univ_018",
+  "species_id": "spec_002",
+  "power_level": null,
+  "debut_year": 1984,
+  "equipment_ids": [
+    "equip_014",
+    "equip_054"
+  ],
+  "movie_ids": [
+    "movie_041",
+    "movie_042"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae960f"
+  },
+  "character_id": "char_023",
+  "name": "Link",
+  "universe_id": null,
+  "species_id": "spec_003",
+  "power_level": 88,
+  "debut_year": 1986,
+  "equipment_ids": [
+    "equip_055",
+    "equip_056",
+    "equip_057"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9610"
+  },
+  "character_id": "char_024",
+  "name": "Princess Zelda",
+  "universe_id": null,
+  "species_id": "spec_003",
+  "power_level": 72,
+  "debut_year": 1986,
+  "equipment_ids": [
+    "equip_058",
+    "equip_059",
+    "equip_060"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9611"
+  },
+  "character_id": "char_025",
+  "name": "Kratos",
+  "universe_id": "univ_012",
+  "species_id": "spec_011",
+  "power_level": 98,
+  "debut_year": 2005,
+  "equipment_ids": [
+    "equip_061",
+    "equip_062",
+    "equip_063"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9612"
+  },
+  "character_id": "char_026",
+  "name": "Mario",
+  "universe_id": "univ_033",
+  "species_id": "spec_001",
+  "power_level": 70,
+  "debut_year": 1985,
+  "equipment_ids": [
+    "equip_064",
+    "equip_065",
+    "equip_066"
+  ],
+  "movie_ids": [
+    "movie_043",
+    "movie_044"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9613"
+  },
+  "character_id": "char_027",
+  "name": "Luigi",
+  "universe_id": "univ_033",
+  "species_id": "spec_001",
+  "power_level": 68,
+  "debut_year": 1985,
+  "equipment_ids": [
+    "equip_067",
+    "equip_068"
+  ],
+  "movie_ids": [
+    "movie_044"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9614"
+  },
+  "character_id": "char_028",
+  "name": "Sonic the hedgehog",
+  "universe_id": "univ_034",
+  "species_id": "spec_013",
+  "power_level": "Fast",
+  "debut_year": 1991,
+  "equipment_ids": [
+    "equip_069",
+    "equip_070"
+  ],
+  "movie_ids": [
+    "movie_045",
+    "movie_046"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9615"
+  },
+  "character_id": "char_029",
+  "name": "Thanos",
+  "universe_id": "univ_007",
+  "species_id": "spec_010",
+  "power_level": 99,
+  "debut_year": 1973,
+  "equipment_ids": [
+    "equip_071",
+    "equip_014"
+  ],
+  "movie_ids": [
+    "movie_047",
+    "movie_048"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9616"
+  },
+  "character_id": "char_030",
+  "name": "Grogu",
+  "universe_id": "univ_002",
+  "species_id": "spec_004",
+  "power_level": 50,
+  "debut_year": 2019,
+  "equipment_ids": [
+    "equip_033",
+    "equip_072"
+  ],
+  "movie_ids": [
+    "movie_049"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9617"
+  },
+  "character_id": "char_031",
+  "name": "Naruto Uzumaki",
+  "universe_id": "univ_027",
+  "species_id": "spec_001",
+  "power_level": 92,
+  "debut_year": 1999,
+  "equipment_ids": [
+    "equip_073",
+    "equip_074",
+    "equip_075"
+  ],
+  "movie_ids": [
+    "movie_050"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9618"
+  },
+  "character_id": "char_032",
+  "name": "Sasuke Uchiha",
+  "universe_id": "univ_027",
+  "species_id": "spec_001",
+  "power_level": 91,
+  "debut_year": 1999,
+  "equipment_ids": [
+    "equip_076",
+    "equip_043"
+  ],
+  "movie_ids": [
+    "movie_051"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9619"
+  },
+  "character_id": "char_033",
+  "name": "Luffy",
+  "universe_id": "univ_028",
+  "species_id": "spec_001",
+  "power_level": "Rubber",
+  "debut_year": 1997,
+  "equipment_ids": [
+    "equip_077",
+    "equip_078"
+  ],
+  "movie_ids": [
+    "movie_052"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae961a"
+  },
+  "character_id": "char_034",
+  "name": "Optimus Prime",
+  "universe_id": "univ_020",
+  "species_id": "spec_007",
+  "power_level": 95,
+  "debut_year": 1984,
+  "equipment_ids": [
+    "equip_079",
+    "equip_003"
+  ],
+  "movie_ids": [
+    "movie_053"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae961b"
+  },
+  "character_id": "char_035",
+  "name": "Megatron",
+  "universe_id": "univ_020",
+  "species_id": "spec_008",
+  "power_level": 96,
+  "debut_year": 1984,
+  "equipment_ids": [
+    "equip_080",
+    "equip_081"
+  ],
+  "movie_ids": [
+    "movie_054",
+    "movie_055"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae961c"
+  },
+  "character_id": "char_036",
+  "name": "Rick Sanchez",
+  "universe_id": "univ_021",
+  "species_id": "spec_001",
+  "power_level": 99,
+  "debut_year": 2013,
+  "equipment_ids": [
+    "equip_082",
+    "equip_083"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae961d"
+  },
+  "character_id": "char_037",
+  "name": "Morty Smith",
+  "universe_id": "univ_021",
+  "species_id": "spec_001",
+  "power_level": 45,
+  "debut_year": 2013,
+  "equipment_ids": [
+    "equip_084",
+    "equip_085"
+  ],
+  "movie_ids": [
+    "movie_056"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae961e"
+  },
+  "character_id": "char_038",
+  "name": "Eleven",
+  "universe_id": "univ_022",
+  "species_id": "spec_001",
+  "power_level": "Psychic",
+  "debut_year": 2016,
+  "equipment_ids": [
+    "equip_086"
+  ],
+  "movie_ids": [
+    "movie_014",
+    "movie_022",
+    "movie_057",
+    "movie_058",
+    "movie_059",
+    "movie_011",
+    "movie_060",
+    "movie_015",
+    "movie_024",
+    "movie_022",
+    "movie_012",
+    "movie_011",
+    "movie_022",
+    "movie_024"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae961f"
+  },
+  "character_id": "char_039",
+  "name": "Homer Simpson",
+  "universe_id": "univ_023",
+  "species_id": "spec_024",
+  "power_level": 42,
+  "debut_year": 1989,
+  "equipment_ids": [
+    "equip_087",
+    "equip_088",
+    "equip_089",
+    "equip_090",
+    "equip_023",
+    "equip_022",
+    "equip_024",
+    "equip_025",
+    "equip_091",
+    "equip_029",
+    "equip_029",
+    "equip_092"
+  ],
+  "movie_ids": [
+    "movie_061"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9620"
+  },
+  "character_id": "char_040",
+  "name": "Spider-Gwen",
+  "universe_id": "univ_007",
+  "species_id": "spec_001",
+  "power_level": 84,
+  "debut_year": 2014,
+  "equipment_ids": [
+    "equip_093"
+  ],
+  "movie_ids": [
+    "movie_062"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9621"
+  },
+  "character_id": "char_041",
+  "name": "Ash Ketchum",
+  "universe_id": "univ_024",
+  "species_id": "spec_001",
+  "power_level": 55,
+  "debut_year": 1997,
+  "equipment_ids": [
+    "equip_094"
+  ],
+  "movie_ids": [
+    "movie_063"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9622"
+  },
+  "character_id": "char_042",
+  "name": "Pikachu",
+  "universe_id": "univ_024",
+  "species_id": "spec_015",
+  "power_level": "Electric",
+  "debut_year": 1996,
+  "equipment_ids": [
+    "equip_095"
+  ],
+  "movie_ids": [
+    "movie_064"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9623"
+  },
+  "character_id": "char_043",
+  "name": "Cloud Strife",
+  "universe_id": "univ_025",
+  "species_id": "spec_001",
+  "power_level": 87,
+  "debut_year": 1997,
+  "equipment_ids": [
+    "equip_096"
+  ],
+  "movie_ids": [
+    "movie_065"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9624"
+  },
+  "character_id": "char_044",
+  "name": "Sephiroth",
+  "universe_id": "univ_025",
+  "species_id": "spec_001",
+  "power_level": 99,
+  "debut_year": 1997,
+  "equipment_ids": [
+    "equip_097"
+  ],
+  "movie_ids": [
+    "movie_065"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9625"
+  },
+  "character_id": "char_045",
+  "name": "Aang",
+  "universe_id": "univ_026",
+  "species_id": "spec_023",
+  "power_level": 90,
+  "debut_year": 2005,
+  "equipment_ids": [
+    "equip_098"
+  ],
+  "movie_ids": [
+    "movie_066"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9626"
+  },
+  "character_id": "char_046",
+  "name": "Katara",
+  "universe_id": "univ_026",
+  "species_id": "spec_001",
+  "power_level": 85,
+  "debut_year": 2005,
+  "equipment_ids": [
+    "equip_099"
+  ],
+  "movie_ids": [
+    "movie_067"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9627"
+  },
+  "character_id": "char_047",
+  "name": "Sokka",
+  "universe_id": "univ_026",
+  "species_id": "spec_001",
+  "power_level": 70,
+  "debut_year": 2005,
+  "equipment_ids": [
+    "equip_100"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9628"
+  },
+  "character_id": "char_048",
+  "name": "Black Panther",
+  "universe_id": "univ_007",
+  "species_id": "spec_001",
+  "power_level": 88,
+  "debut_year": 1966,
+  "equipment_ids": [
+    "equip_101",
+    "equip_102"
+  ],
+  "movie_ids": [
+    "movie_068",
+    "movie_047"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9629"
+  },
+  "character_id": "char_049",
+  "name": "Wonder Woman",
+  "universe_id": "univ_008",
+  "species_id": "spec_025",
+  "power_level": 95,
+  "debut_year": 1941,
+  "equipment_ids": [
+    "equip_103"
+  ],
+  "movie_ids": [
+    "movie_069",
+    "movie_070"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae962a"
+  },
+  "character_id": "char_050",
+  "name": "The Flash",
+  "universe_id": "univ_008",
+  "species_id": "spec_001",
+  "power_level": "Fast",
+  "debut_year": 1940,
+  "equipment_ids": [
+    "equip_104"
+  ],
+  "movie_ids": [
+    "movie_070",
+    "movie_071"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae962b"
+  },
+  "character_id": "char_051",
+  "name": "Shrek",
+  "universe_id": "univ_030",
+  "species_id": "spec_012",
+  "power_level": 78,
+  "debut_year": 2001,
+  "equipment_ids": [
+    "equip_105"
+  ],
+  "movie_ids": [
+    "movie_072",
+    "movie_073"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae962c"
+  },
+  "character_id": "char_052",
+  "name": "Donkey",
+  "universe_id": "univ_030",
+  "species_id": "spec_014",
+  "power_level": "Friendship",
+  "debut_year": 2001,
+  "equipment_ids": [
+    "equip_106"
+  ],
+  "movie_ids": [
+    "movie_072",
+    "movie_073"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae962d"
+  },
+  "character_id": "char_053",
+  "name": "Neo",
+  "universe_id": "univ_029",
+  "species_id": "spec_001",
+  "power_level": 100,
+  "debut_year": 1999,
+  "equipment_ids": [
+    "equip_107",
+    "equip_108"
+  ],
+  "movie_ids": [
+    "movie_074",
+    "movie_075",
+    "movie_076"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae962e"
+  },
+  "character_id": "char_054",
+  "name": "Trinity",
+  "universe_id": "univ_029",
+  "species_id": "spec_001",
+  "power_level": 89,
+  "debut_year": 1999,
+  "equipment_ids": [
+    "equip_109"
+  ],
+  "movie_ids": [
+    "movie_074",
+    "movie_075"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae962f"
+  },
+  "character_id": "char_055",
+  "name": "Agent Smith",
+  "universe_id": "univ_029",
+  "species_id": "spec_006",
+  "power_level": 97,
+  "debut_year": 1999,
+  "equipment_ids": [
+    "equip_110"
+  ],
+  "movie_ids": [
+    "movie_074"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9630"
+  },
+  "character_id": "char_056",
+  "name": "Hermione Granger",
+  "universe_id": "univ_009",
+  "species_id": "spec_001",
+  "power_level": 90,
+  "debut_year": 1997,
+  "equipment_ids": [
+    "equip_111"
+  ],
+  "movie_ids": [
+    "movie_029",
+    "movie_077"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9631"
+  },
+  "character_id": "char_057",
+  "name": "Sauron",
+  "universe_id": "univ_011",
+  "species_id": "spec_009",
+  "power_level": "99",
+  "debut_year": 1954,
+  "equipment_ids": [
+    "equip_112"
+  ],
+  "movie_ids": [
+    "movie_078"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9632"
+  },
+  "character_id": "char_058",
+  "name": "Riri Stark",
+  "universe_id": "univ_007",
+  "species_id": "spec_001",
+  "power_level": 95,
+  "debut_year": 2022,
+  "equipment_ids": [
+    "equip_014",
+    "equip_030",
+    "equip_031"
+  ],
+  "movie_ids": [
+    "movie_079"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9633"
+  },
+  "character_id": "char_059",
+  "name": "Cinderela",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 10,
+  "debut_year": 1950,
+  "equipment_ids": [
+    "equip_113",
+    "equip_114",
+    "equip_115"
+  ],
+  "movie_ids": [
+    "movie_080",
+    "movie_081",
+    "movie_082"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9634"
+  },
+  "character_id": "char_060",
+  "name": "Barbie",
+  "universe_id": "univ_035",
+  "species_id": "spec_021",
+  "power_level": 99,
+  "debut_year": 1959,
+  "equipment_ids": [
+    "equip_116",
+    "equip_117",
+    "equip_118"
+  ],
+  "movie_ids": [
+    "movie_083",
+    "movie_084",
+    "movie_085"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9635"
+  },
+  "character_id": "char_061",
+  "name": "Elsa",
+  "universe_id": "univ_031",
+  "species_id": "spec_018",
+  "power_level": 92,
+  "debut_year": 2013,
+  "equipment_ids": [
+    "equip_119",
+    "equip_120"
+  ],
+  "movie_ids": [
+    "movie_086",
+    "movie_087",
+    "movie_088"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9636"
+  },
+  "character_id": "char_062",
+  "name": "Mulher-Maravilha",
+  "universe_id": "univ_008",
+  "species_id": "spec_011",
+  "power_level": 96,
+  "debut_year": 1941,
+  "equipment_ids": [
+    "equip_124",
+    "equip_125",
+    "equip_126"
+  ],
+  "movie_ids": [
+    "movie_089",
+    "movie_090",
+    "movie_091"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9637"
+  },
+  "character_id": "char_063",
+  "name": "Elle Woods",
+  "universe_id": "univ_036",
+  "species_id": "spec_001",
+  "power_level": 75,
+  "debut_year": 2001,
+  "equipment_ids": [
+    "equip_127",
+    "equip_128",
+    "equip_129"
+  ],
+  "movie_ids": [
+    "movie_092",
+    "movie_093"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9638"
+  },
+  "character_id": "char_064",
+  "name": "Tiana",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 50,
+  "debut_year": 2009,
+  "equipment_ids": [
+    "equip_130",
+    "equip_131"
+  ],
+  "movie_ids": [
+    "movie_094"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9639"
+  },
+  "character_id": "char_065",
+  "name": "Katniss Everdeen",
+  "universe_id": "univ_032",
+  "species_id": "spec_001",
+  "power_level": 80,
+  "debut_year": 2008,
+  "equipment_ids": [
+    "equip_132",
+    "equip_133"
+  ],
+  "movie_ids": [
+    "movie_095",
+    "movie_096",
+    "movie_097"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae963a"
+  },
+  "character_id": "char_066",
+  "name": "Natasha Romanoff",
+  "universe_id": "univ_007",
+  "species_id": "spec_001",
+  "power_level": 84,
+  "debut_year": 2010,
+  "equipment_ids": [
+    "equip_134",
+    "equip_135",
+    "equip_136"
+  ],
+  "movie_ids": [
+    "movie_098",
+    "movie_099",
+    "movie_100",
+    "movie_101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae963b"
+  },
+  "character_id": "char_067",
+  "name": "Miranda Priestly",
+  "universe_id": "univ_037",
+  "species_id": "spec_001",
+  "power_level": 90,
+  "debut_year": 2006,
+  "equipment_ids": [
+    "equip_137",
+    "equip_138",
+    "equip_139"
+  ],
+  "movie_ids": [
+    "movie_102",
+    "movie_103"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae963c"
+  },
+  "character_id": "char_068",
+  "name": "Rapunzel",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 60,
+  "debut_year": 2010,
+  "equipment_ids": [
+    "equip_140",
+    "equip_141",
+    "equip_142"
+  ],
+  "movie_ids": [
+    "movie_104",
+    "movie_105"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae963d"
+  },
+  "character_id": "char_069",
+  "name": "Mulan",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 78,
+  "debut_year": 1998,
+  "equipment_ids": [
+    "equip_145",
+    "equip_146",
+    "equip_147"
+  ],
+  "movie_ids": [
+    "movie_107",
+    "movie_108"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae963e"
+  },
+  "character_id": "char_070",
+  "name": "Wandinha Addams",
+  "universe_id": "univ_042",
+  "species_id": "spec_001",
+  "power_level": 82,
+  "debut_year": 1938,
+  "equipment_ids": [
+    "equip_148",
+    "equip_149",
+    "equip_150"
+  ],
+  "movie_ids": [
+    "movie_109",
+    "movie_110"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae963f"
+  },
+  "character_id": "char_071",
+  "name": "Daenerys Targaryen",
+  "universe_id": "univ_040",
+  "species_id": "spec_001",
+  "power_level": 95,
+  "debut_year": 1996,
+  "equipment_ids": [
+    "equip_151",
+    "equip_152"
+  ],
+  "movie_ids": [
+    "movie_111"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9640"
+  },
+  "character_id": "char_072",
+  "name": "Regina George",
+  "universe_id": "univ_038",
+  "species_id": "spec_001",
+  "power_level": 70,
+  "debut_year": 2004,
+  "equipment_ids": [
+    "equip_153",
+    "equip_154"
+  ],
+  "movie_ids": [
+    "movie_112"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9641"
+  },
+  "character_id": "char_073",
+  "name": "Ariel",
+  "universe_id": "univ_031",
+  "species_id": "spec_019",
+  "power_level": 40,
+  "debut_year": 1989,
+  "equipment_ids": [
+    "equip_155",
+    "equip_156"
+  ],
+  "movie_ids": [
+    "movie_113",
+    "movie_114"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9642"
+  },
+  "character_id": "char_074",
+  "name": "Princesa Leia",
+  "universe_id": "univ_002",
+  "species_id": "spec_001",
+  "power_level": 86,
+  "debut_year": 1977,
+  "equipment_ids": [
+    "equip_003",
+    "equip_157",
+    "equip_158"
+  ],
+  "movie_ids": [
+    "movie_115",
+    "movie_116",
+    "movie_117",
+    "movie_118"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9643"
+  },
+  "character_id": "char_075",
+  "name": "Malévola",
+  "universe_id": "univ_031",
+  "species_id": "spec_020",
+  "power_level": 94,
+  "debut_year": 1959,
+  "equipment_ids": [
+    "equip_159",
+    "equip_160",
+    "equip_161"
+  ],
+  "movie_ids": [
+    "movie_119",
+    "movie_120",
+    "movie_121"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9644"
+  },
+  "character_id": "char_076",
+  "name": "Capitã Marvel",
+  "universe_id": "univ_007",
+  "species_id": "spec_022",
+  "power_level": 98,
+  "debut_year": 1968,
+  "equipment_ids": [
+    "equip_162",
+    "equip_163"
+  ],
+  "movie_ids": [
+    "movie_122"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9645"
+  },
+  "character_id": "char_077",
+  "name": "Bella Swan",
+  "universe_id": "univ_041",
+  "species_id": "spec_001",
+  "power_level": 88,
+  "debut_year": 2005,
+  "equipment_ids": [
+    "equip_164"
+  ],
+  "movie_ids": [
+    "movie_123",
+    "movie_124",
+    "movie_125",
+    "movie_126"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9646"
+  },
+  "character_id": "char_078",
+  "name": "Mary Poppins",
+  "universe_id": "univ_031",
+  "species_id": "spec_018",
+  "power_level": 91,
+  "debut_year": 1934,
+  "equipment_ids": [
+    "equip_165",
+    "equip_166",
+    "equip_167"
+  ],
+  "movie_ids": [
+    "movie_127",
+    "movie_128"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9647"
+  },
+  "character_id": "char_079",
+  "name": "Moana",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 50,
+  "debut_year": 2016,
+  "equipment_ids": [
+    "equip_168",
+    "equip_169"
+  ],
+  "movie_ids": [
+    "movie_129",
+    "movie_130"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9648"
+  },
+  "character_id": "char_080",
+  "name": "Arlequina",
+  "universe_id": "univ_008",
+  "species_id": "spec_001",
+  "power_level": 83,
+  "debut_year": 1992,
+  "equipment_ids": [
+    "equip_170",
+    "equip_171",
+    "equip_172"
+  ],
+  "movie_ids": [
+    "movie_131"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae9649"
+  },
+  "character_id": "char_081",
+  "name": "Dorothy Gale",
+  "universe_id": "univ_039",
+  "species_id": "spec_001",
+  "power_level": 30,
+  "debut_year": 1900,
+  "equipment_ids": [
+    "equip_173",
+    "equip_174"
+  ],
+  "movie_ids": [
+    "movie_132"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae964a"
+  },
+  "character_id": "char_082",
+  "name": "Bela",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 0,
+  "debut_year": 1991,
+  "equipment_ids": [
+    "equip_123",
+    "equip_175"
+  ],
+  "movie_ids": [
+    "movie_133",
+    "movie_134"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae964b"
+  },
+  "character_id": "char_083",
+  "name": "Wanda Maximoff",
+  "universe_id": "univ_007",
+  "species_id": "spec_018",
+  "power_level": 99,
+  "debut_year": 1964,
+  "equipment_ids": [
+    "equip_176",
+    "equip_177"
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae964c"
+  },
+  "character_id": "char_084",
+  "name": "Princesinha Sofia",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 45,
+  "debut_year": 2012,
+  "equipment_ids": [
+    "equip_178"
+  ],
+  "movie_ids": [
+    "movie_135"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a26cd1be9ad55ef18ae964d"
+  },
+  "character_id": "char_085",
+  "name": "Cruella de Vil",
+  "universe_id": "univ_031",
+  "species_id": "spec_001",
+  "power_level": 65,
+  "debut_year": 1956,
+  "equipment_ids": [
+    "equip_179",
+    "equip_180"
+  ],
+  "movie_ids": [
+    "movie_136",
+    "movie_137"
+  ]
+}]
